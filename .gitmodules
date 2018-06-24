@@ -1,0 +1,6 @@
+[submodule "osu"]
+	path = osu
+	url = https://github.com/ppy/osu
+[submodule "osu-Karaoke"]
+	path = osu-Karaoke
+	url = https://github.com/osu-Karaoke/osu-Karaoke
